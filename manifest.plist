@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://down.m5n5.com/hello.ipa</string>
+                    <string>https://github.com/anfunguys/test/raw/master/facebok-ok.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -35,7 +35,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Example</string>
+                <string>Do Box</string>
             </dict>
         </dict>
     </array>
